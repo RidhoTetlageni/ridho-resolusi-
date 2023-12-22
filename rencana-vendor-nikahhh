@@ -4,7 +4,7 @@ rencana vendor
  >benefit a
  >benefit b
 *paket 2 harga 200rb
+ >benefit a
+ >benefit b
 *paket 3 harga 300rb
-- vendor b
 - vendor c
-- vendor d
