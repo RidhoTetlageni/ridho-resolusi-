@@ -1,7 +1,9 @@
 rencana vendor
 - vendor a 
 *paket 1 harga 100rb
+ >benefit a
 *paket 2 harga 200rb
 *paket 3 harga 300rb
 - vendor b
 - vendor c
+- vendor d
